@@ -1,10 +1,10 @@
-## The Unix Philosophy
+# The Unix Philosophy
 > Extracts from the Unix Philosophy
 
 ## The Unix Philosophy in One Lesson
-#add image kiss.png
+<img style="float: center;" src="https://github.com/sameerkumar18/the-unix-philosophy/blob/master/kiss.png?raw=true">
 
-
+<br><hr>
 ### Doug McIlroy, the inventor of Unix pipes and one of the founders of the Unix tradition
 
 This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.
