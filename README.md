@@ -52,7 +52,7 @@ When in doubt, use brute force.
 
 - Rule of Parsimony: Write a big program only when it is clear by demonstration that nothing else will do.
 
-- Rule of Transparency: Design for visibility to make inspection and debuggingeasier.
+- Rule of Transparency: Design for visibility to make inspection and debugging easier.
 
 - Rule of Robustness: Robustness is the child of transparency and simplicity.
 
